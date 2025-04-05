@@ -29,7 +29,7 @@ The project mainly consists of:
 - Containing the code and the implementation
 
 ### 2. Output Video
-- **Demo Link**: https://drive.google.com/drive/folders/1-2q98s3cErBfEXa5uCgvZ-eJdAncEbaD)
+- **Demo Link**: (https://drive.google.com/file/d/1e-k6xg07kFS20H6oAt7aFrIbl0aZXfLO/view?usp=sharing)
 - A short video demonstrating real-time gesture recognition using the trained model and MediaPipe hand tracking.
 
 ---
