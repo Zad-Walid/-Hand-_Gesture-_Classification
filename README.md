@@ -28,13 +28,13 @@ The project mainly consists of:
 ### 1. Jupyter Notebook
 - Containing the code and the implementation
 
-### 2. 🎥 Output Video
-- **Demo Link**: [🔗 Google Drive Video Link Here]
+### 2. Output Video
+- **Demo Link**: https://drive.google.com/drive/folders/1-2q98s3cErBfEXa5uCgvZ-eJdAncEbaD)
 - A short video demonstrating real-time gesture recognition using the trained model and MediaPipe hand tracking.
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 - Python
 - MediaPipe
